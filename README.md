@@ -9,8 +9,3 @@ python3 -m http.server 8765 --directory .
 ```
 
 Deploy: upload this folder to any static host; point `trade.intafaced.com` CNAME at host.
-
-
-## Live
-
-https://zenyoda3.github.io/intafaced-sovereign-os/
