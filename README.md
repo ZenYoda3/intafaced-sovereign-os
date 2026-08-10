@@ -1,11 +1,5 @@
-# Sovereign OS — TV apply surface
+# INTAFACED Sovereign OS — public apply surface (V4 multi)
 
-Static marketing site for TradingView Advanced Charts application.
+Live: https://zenyoda3.github.io/intafaced-sovereign-os/
 
-```bash
-# local preview
-python3 -m http.server 8765 --directory .
-# open http://127.0.0.1:8765/
-```
-
-Deploy: upload this folder to any static host; point `trade.intafaced.com` CNAME at host.
+Built with Magic UI patterns + React Bits / Aceternity-inspired beams + shadcn/Radix + Lightweight Charts.
